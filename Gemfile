@@ -56,4 +56,6 @@ group :development, :test do
 end
 # Use devise for user authentication
   gem 'devise'
+  
+  gem "twitter-bootstrap-rails"
 
